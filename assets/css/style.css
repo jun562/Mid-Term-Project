@@ -245,6 +245,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2c47f9;}
 /*.single-about-txt*/
 .single-about-txt h3 {
     font-size:20px;
+    font-weight:bold;
     color: #3c4258;
     text-transform: initial;
     line-height: 1.8;
@@ -378,6 +379,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
+    color:#2542fa;
     text-transform: uppercase;
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
