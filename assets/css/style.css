@@ -283,6 +283,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2c47f9;}
 }
 .single-about-video{
     width:100%;
+    height: 468px; 
+}
+.single-about-video-container{
     max-width: 500px;
     height: 468px; 
 }
