@@ -50,12 +50,12 @@ a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
     color:#141414a9;
-	font-size:16px;
+	font-size:20px;
 	padding:0;
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-    font-size: 16px;
+    font-size: 20px;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
 }
@@ -244,13 +244,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2c47f9;}
 .about-content {padding-top: 100px;}
 /*.single-about-txt*/
 .single-about-txt h3 {
-    font-size:18px;
+    font-size:20px;
     color: #3c4258;
     text-transform: initial;
     line-height: 1.8;
 }
 .single-about-txt p {
-    font-size: 16px;
+    font-size: 20px;
     color: #141414a9;
     padding: 35px 0 43px;
     border-bottom: 1px solid #14141400;
@@ -260,7 +260,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2c47f9;}
 }
 .single-about-add-info h3 {
     color: #141414a9;
-    font-size: 16px;
+    font-size: 20px;
     text-transform: capitalize;
 }
 .single-about-add-info p {font-weight:  300;border:  0;padding: 0;margin-top: 3px;}
@@ -370,9 +370,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*-------------------------------------
         6.  Skills
 --------------------------------------*/
-.skills {
-    
-}
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
 .section-heading h2 {
@@ -700,7 +697,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .contact-form .form-control {
     padding: 25px;
     font-size: 14px;
-    border: 1px solid #fff;
+    border: 1px solid #bcc6dc;
     border-radius: 0px;
     box-shadow: none;
     outline: 0!important;
